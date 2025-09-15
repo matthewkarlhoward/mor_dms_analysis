@@ -1,0 +1,7 @@
+mor alldrugs questions 
+- lig dist/shell, clear clusters of non-orthosteric hits? 
+- shared hits
+- general divergent
+- lig site specific differences (vector?)
+- g prot site, proportional to signal magnitude or truly different sensitivity?
+

@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "notes.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 13909,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mkh/GitHub/mor_dms_analysis/notes.txt",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/config/oligos/TSHR_oligos.csv",
+		"/Users/mkh/Downloads/dumpling-main 2/config/example.yaml",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/config/TSHR.yaml",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/results/tshr_v2_plasmid/TSHR_plasmid.mapped.sam",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/rules/scripts/process_oligo_list.py",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/rules/common.smk",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/Snakefile",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/references/example_ref.fasta",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/config/example.yaml",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling_initial/config/TSHR.yaml",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/benchmarks/tshr_v2_plasmid/TSHR-V2-plasmid-pool_S1_L001_R2_001.fastqc.benchmark.txt",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/references/B2AR_reference.fasta",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/references/TSHR_reference.fasta",
+		"/Volumes/MKH_DRIVE2/250903_M02564_1040_000000000-DTDNH/Alignment_1/20250904_165537/DemultiplexSummaryF1L1.txt",
+		"/Volumes/MKH_DRIVE2/250903_M02564_1040_000000000-DTDNH/Alignment_1/20250904_165537/AdapterCounts.txt",
+		"/Volumes/MKH_DRIVE2/250903_M02564_1040_000000000-DTDNH/Alignment_1/20250904_165537/AnalysisLog.txt",
+		"/Volumes/MKH_DRIVE2/250903_M02564_1040_000000000-DTDNH/Alignment_1/20250904_165537/AnalysisError.txt",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/250903_M02564_1040_000000000-DTDNH/QueuedForAnalysis.txt",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/250903_M02564_1040_000000000-DTDNH/Basecalling_Netcopy_complete_Read2.txt",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/B2AR_DMS/library_qc/B2AR_miseq_qc2/dumpling/config/B2AR.yaml",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/250903_M02564_1040_000000000-DTDNH/CopyComplete.txt",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/250903_M02564_1040_000000000-DTDNH/Alignment_1/20250904_165537/DemultiplexSummaryF1L1.txt",
+		"/Users/mkh/Downloads/ZJ55KX_fastq/ZJ55KX_11_TSHR_subpool_13.fastq",
+		"/Users/mkh/Downloads/ZJ55KX_results/ZJ55KX_summary-files/ZJ55KX_13_TSHR_subpool_15.txt",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/data/Undetermined_S0_L001_R1_001.fastq",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/250903_M02564_1040_000000000-DTDNH/Alignment_1/20250904_165537/AdapterCounts.txt",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/250903_M02564_1040_000000000-DTDNH/Alignment_1/20250904_165537/Fastq/FastqSummaryF1L1.txt",
+		"/Users/mkh/Desktop/TSHR_ref2.fasta",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/rules/scripts/generate_baseline_configs.py",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/rules/scripts/generate_baseline_file_list.py",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/rules/scripts/generate_enrich_configs.py",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/rules/scripts/install_rosace.R",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/rules/scripts/process_counts.py",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/rules/scripts/process_variants.py",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/workflow/rules/scripts/remove_zeros.py",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/logs/TSHR_v2_plasmid/install_rosace.log",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/logs/TSHR_v2_plasmid/multiqc_baseline_config.log",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/logs/TSHR_v2_plasmid/multiqc_baseline_file_list.log",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/benchmarks/TSHR_v2_plasmid/Undetermined_S0_L001_R2_001.fastqc.benchmark.txt",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/config/TSHR.csv",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/dumpling_env.yaml",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/250903_M02564_1040_000000000-DTDNH/Basecalling_Netcopy_complete_Read1.txt",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/TSHR_DMS/library_generation/20240416_miseq_qc/processing/test_dumpling_tshr/dumpling/config/TSHR_oligos.csv",
+		"/Users/mkh/Desktop/20250904_tshr_v2_plasmid_miseq_processing/dumpling/config/TSHR_lib_target_twist_DMS_Oligos.fasta",
+		"/Users/mkh/Desktop/MOR_alldrugs/counts/lilace_output_Buprenorphine/lilace_output/sampling.log",
+		"/Users/mkh/Desktop/MOR_alldrugs/counts/lilace_output_Buprenorphine/lilace_output/sampling_diagnostics.yaml",
+		"/Users/mkh/Downloads/20250903_tshr_samplesheet.csv",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/MOR/sort_data/may2025_sorts/mor_drc_plating_concentrations.txt",
+		"/Users/mkh/Desktop/dimple-qc-app-main/dimple_qc_notes.txt",
+		"/Users/mkh/Desktop/dimple-qc-app-main/README.md",
+		"/Users/mkh/Desktop/dimple-qc-app-main/requirements.txt",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Library Orders/August_2024_or1a1_mor_kor_alpha2/shrimple_output_0511/barcode_map_oligo.tsv",
+		"/Users/mkh/Desktop/ORome_library.txt",
+		"/Users/mkh/Desktop/receptor vs g protein plot.txt",
+		"/Users/mkh/Desktop/comparison_angles.txt",
+		"/Users/mkh/Desktop/comparison_ca_distances.txt",
+		"/Users/mkh/Desktop/my_analysis_angles.txt",
+		"/Users/mkh/Desktop/career_exploration.txt",
+		"/Users/mkh/Desktop/20241118 priorities.txt",
+		"/Users/mkh/Desktop/20250404_TODO",
+		"/Users/mkh/Desktop/dewardb_export.txt",
+		"/Users/mkh/Downloads/TSHR_primers.csv",
+		"/Users/mkh/DIMPLE/July2025_TSHR_final/All_Primers.fasta",
+		"/Users/mkh/DIMPLE/July2025_TSHR_final/All_Oligos.fasta",
+		"/Users/mkh/DIMPLE/README.md",
+		"/Users/mkh/DIMPLE/partial/TSHR_lib_target_twist_mutations.csv",
+		"/Users/mkh/DIMPLE/partial/All_Oligos.fasta",
+		"/Users/mkh/DIMPLE/July2025_TSHR/All_Oligos.fasta",
+		"/Users/mkh/DIMPLE/July2025_TSHR/All_Primers.fasta",
+		"/Users/mkh/DIMPLE/July2025_TSHR/TSHR_lib_target_twist_DMS_Gene_Primers.fasta",
+		"/Users/mkh/DIMPLE/July2025_TSHR/TSHR_lib_target_twist_DMS_Oligo_Primers.fasta",
+		"/Users/mkh/DIMPLE/July2025_TSHR/TSHR_lib_target_twist.fasta",
+		"/Users/mkh/DIMPLE/July2025_TSHR/TSHR_lib_target_twist_mutations.csv",
+		"/Users/mkh/DIMPLE/July2025_TSHR/TSHR_lib_target_twist_DMS_Oligos.fasta",
+		"/Users/mkh/DIMPLE/run_dimple_gui.py",
+		"/Users/mkh/DIMPLE/July2025_TSHR/TSHR_lib_target_twist.fa",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Library Orders/June 2023 Order/All_Primers.fasta",
+		"/Users/mkh/Downloads/full_MTR_scores 2.tsv",
+		"/Users/mkh/Desktop/travel.txt",
+		"/Users/mkh/Downloads/tshr_mutations_database.csv",
+		"/Users/mkh/Downloads/tshr_mutations_csv.txt",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/MOR/cloning/20250626_hMOR_bret_validation_mut_primers.fasta",
+		"/Users/mkh/Downloads/dumpling_working/config/halo-mor.yaml",
+		"/Users/mkh/Desktop/mor_drc_plating_concentrations.txt",
+		"/Users/mkh/Downloads/X5DWYX_2_KS2.fastq",
+		"/Users/mkh/Downloads/X5DWYX_1_KS1.fastq",
+		"/Users/mkh/Downloads/M2FWVR_1_KS1.fastq",
+		"/Users/mkh/Downloads/X5DWYX_fastq/X5DWYX_1_KS1.fastq",
+		"/Users/mkh/Downloads/X5DWYX_results/X5DWYX_summary-files/X5DWYX_1_KS1.txt",
+		"/Users/mkh/Desktop/MOR_DRC_part2.csv",
+		"/Users/mkh/Desktop/MOR_DRC_part1.csv",
+		"/Users/mkh/Desktop/chai_setup_info.txt",
+		"/Users/mkh/Downloads/20250513_LH00572_0218_B232M2MLT3_MatthewBaseline.sh",
+		"/Users/mkh/Downloads/20250513_LH00572_0218_B232M2MLT3_MatthewSignaling.sh",
+		"/Users/mkh/Downloads/20250513_LH00572_0218_B232M2MLT3_MatthewTrafficking.sh",
+		"/Users/mkh/Downloads/20250430_SH00410_0029_ASC2106806-SC3.sh",
+		"/Users/mkh/Downloads/69BS4D_1_GPCRome_adapter_test.fastq",
+		"/Users/mkh/Desktop/MOR GPCRdb ligand interactions/add_columns.sh.sh",
+		"/Users/mkh/Desktop/MOR GPCRdb ligand interactions/create_master.sh",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/z_old/CFTR_DMS/Miseq_runs/20250502_biohub/20250430_SH00410_0029_ASC2106806-SC3.sh",
+		"/Users/mkh/Desktop/GPCR workshop application - written",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/z_old/CFTR_DMS/20250307_CFTR_miseq/250306_M02564_1012_000000000-DT5HK/SampleSheet.csv",
+		"/Users/mkh/Downloads/ORome_enzymes.txt",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/intermediate_files/WT/wt_sequences_nocuts.fasta",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/intermediate_files/csv_to_fasta.py",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/intermediate_files/protein-align-mutate-Q.py",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/intermediate_files/WT/wt_sequences_modified.csv",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/intermediate_files/WT/wt_sequences.csv",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/intermediate_files/WT/wt_sequences.fasta",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/intermediate_files/updated-restriction-sites-codon-optimized.py",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/updated-restriction-sites.py",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/wt_sequences.csv",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/restriction_sites.py",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/fasta-to-csv.py",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/sequences.fasta",
+		"/Users/mkh/Library/CloudStorage/Box-Box/WCM Lab/Matt/Lab/Projects/OR1A1_DMS/ORome_D111_screen/ORome_sequence_library/csv_to_fasta.py",
+		"/Users/mkh/Desktop/20250313_mor_mutants/20250313_mor_mutant_primers",
+		"/Users/mkh/Desktop/20250313_mor_mutants/fasta-to-csv-converter.py",
+		"/Users/mkh/Desktop/CFTR_miseq/Alignment_1/20250307_114819/DemultiplexSummaryF1L1.txt",
+		"/Users/mkh/Desktop/CFTR_miseq/Alignment_1/20250307_114819/Checkpoint.txt",
+		"/Users/mkh/Desktop/CFTR_miseq/Alignment_1/20250307_114819/AnalysisLog.txt",
+		"/Users/mkh/Desktop/CFTR_miseq/Alignment_1/20250307_114819/AnalysisError.txt",
+		"/Users/mkh/Desktop/CFTR_miseq/Alignment_1/20250307_114819/AdapterTrimming.txt",
+		"/Users/mkh/Desktop/CFTR_miseq/Alignment_1/20250307_114819/AdapterCounts.txt",
+		"/Users/mkh/Desktop/CFTR_miseq/Basecalling_Netcopy_complete_Read1.txt",
+		"/Users/mkh/Desktop/CFTR_miseq/CopyComplete.txt",
+		"/Users/mkh/Desktop/CFTR_miseq/ImageAnalysis_Netcopy_complete_Read1.txt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "notes.sublime-workspace",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "notes.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -2,8 +2,8 @@ import csv
 import numpy as np
 
 # Assuming "mor" is the object name for the first structure and "P" is the chain name for the second structure
-object_name_mor = "chain R"
-chain_name_p = "chain D"
+object_name_mor = "chain D"
+chain_name_p = "obj01"
 cutoff_distance = 100.0  # Set your desired cutoff distance in angstroms
 
 # Get the coordinates of all atoms in "mor"
@@ -22,21 +22,21 @@ min_distances = np.min(distances, axis=1)
 residue_numbers_mor = [atom.resi for atom in cmd.get_model(f"({object_name_mor})").atom]
 
 # Create a dictionary to store the valid shortest distances for each residue in "mor"
-fentanyl_distances = {str(resi): {"pos": str(resi), "fentanyl_distance": min_distance}
+C6guano_distances = {str(resi): {"pos": str(resi), "C6guano_distance": min_distance}
                     for resi, min_distance in zip(residue_numbers_mor, min_distances)
                     if min_distance < cutoff_distance}
 
 # Save the results to a CSV file
-csv_filename = "fentanyl_distances.csv"
+csv_filename = "C6guano_distances.csv"
 with open(csv_filename, mode='w', newline='') as csv_file:
-    fieldnames = ["pos", "fentanyl_distance"]
+    fieldnames = ["pos", "C6guano_distance"]
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
     # Write the header
     writer.writeheader()
 
     # Write the data
-    for result in fentanyl_distances.values():
+    for result in C6guano_distances.values():
         writer.writerow(result)
 
 print(f"Results saved to {csv_filename}")
