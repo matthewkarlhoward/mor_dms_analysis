@@ -7,7 +7,7 @@ Sections include:
   - Predictions
   - Unpublished
   - Ligand contacts
-  - Ligand:GPCR distances
+  - Ligand:GPCR distances ✅
   - Gprotein:receptor distances
   - Active:inactive alterations
   - Phi/psi/omega angles
