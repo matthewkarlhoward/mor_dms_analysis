@@ -1,0 +1,83 @@
+---
+title: "Orthosteric site radar and bar plots"
+output: html_notebook
+---
+
+data, directories, packages
+```{r}
+setwd("/Users/mkh/GitHub/mor_dms_analysis/analysis/radar_bar_plots")
+
+library(tidyverse)
+library(circlize)
+```
+
+basic radar plot
+```{r}
+# Positions of interest
+positions <- c(77, 116, 119, 122, 123, 125, 126, 129, 130, 135, 145, 146, 149, 150, 152, 153, 156, 219, 220, 235, 238, 295, 298, 299, 302, 320, 321, 324, 327, 328, 330, 331)
+
+# Calulate absolute sum of DAMGO effect for mutation_type M at these positions
+df <- normalized %>%
+  filter(pos %in% positions, mutation_type == "M") %>%
+  group_by(pos) %>%
+  summarize(abs_sum_effect = sum(abs(effect_fentanyl_expr_norm), na.rm = TRUE), .groups = 'drop') %>%
+  mutate(pos = as.character(pos)) %>%
+  # Ensure all positions are included (in case some have no data)
+  right_join(data.frame(pos = as.character(positions)), by = "pos") %>%
+  mutate(abs_sum_effect = ifelse(is.na(abs_sum_effect), 0, abs_sum_effect)) %>%
+  arrange(as.numeric(pos))
+
+# Since we're using absolute sum, values should already be positive
+df$plot_value <- df$abs_sum_effect
+
+# ---- Circos setup ----
+circos.clear()
+circos.par(
+  start.degree = 90,          
+  gap.after = 1,              
+  track.margin = c(0, 0),     
+  cell.padding = c(0, 0, 0, 0), 
+  canvas.xlim = c(-1.2, 1.2), 
+  canvas.ylim = c(-1.2, 1.2)
+)
+
+# Initialize: one sector per position
+circos.initialize(
+  factors = df$pos,
+  xlim = cbind(rep(0, nrow(df)), rep(1, nrow(df)))
+)
+
+# ---- Radial bars track ----
+circos.trackPlotRegion(
+  ylim = c(0, max(df$plot_value, na.rm = TRUE)),
+  factors = df$pos,
+  track.height = 1.0,  
+  bg.border = NA,
+  panel.fun = function(x, y) {
+    pos_label = get.cell.meta.data("sector.index")
+    val = df$plot_value[df$pos == pos_label]
+    circos.barplot(val, 1, col = "grey60", border = NA)
+    
+    # Add labels at the outer edge
+    circos.text(0.5, val + max(df$plot_value) * 0.05, pos_label,
+                facing = "downward",
+                niceFacing = FALSE,
+                adj = c(0.5, 0),
+                cex = 0.6)
+  }
+)
+
+# ---- Radial reference rings ----
+circos.yaxis(
+  side = "left",
+  at = seq(0, max(df$plot_value), length.out = 5),
+  labels = round(seq(0, max(df$plot_value), length.out = 5), 1),
+  labels.cex = 0.6
+)
+
+circos.clear()
+
+# Print the data to see what values you're working with
+print(df)
+```
+
