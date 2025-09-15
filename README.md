@@ -3,14 +3,14 @@ for storage and organization of MOR mutational scanning data
 
 Sections include:
 - Structural data
-  - Experimental coordinates
-  - Predictions
-  - Unpublished
-  - Ligand contacts
+  - Experimental coordinates ✅
+  - Predictions ✅
+  - Unpublished ✅
+  - Ligand contacts GPCRdb ✅
   - Ligand:GPCR distances ✅
-  - Gprotein:receptor distances
-  - Active:inactive alterations
-  - Phi/psi/omega angles
+  - Gprotein:receptor distances ✅
+  - Active:inactive alterations ✅
+  - Phi/psi/omega angles ✅
 - Annotations
   - Human:mouse mapping
   - Regeneron MTR
