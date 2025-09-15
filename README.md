@@ -13,12 +13,12 @@ Sections include:
   - Phi/psi/omega angles ✅
 - Annotations
   - Human:mouse mapping
-  - Regeneron MTR
-  - Alphamissense scores
+  - Regeneron MTR ✅
+  - Alphamissense scores ✅
   - Clinvar
   - Gnomad
-  - GPCRdb/BW numbering
-  - Cannonical motifs
+  - GPCRdb/BW numbering ✅
+  - Cannonical motifs ✅
 - DMS data
   - Samplesheets + cell counts
   - Experimental variant counts
