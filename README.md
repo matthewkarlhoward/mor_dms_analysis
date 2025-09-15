@@ -12,7 +12,7 @@ Sections include:
   - Active:inactive alterations ✅
   - Phi/psi/omega angles ✅
 - Annotations
-  - Human:mouse mapping
+  - Human:mouse mapping ✅
   - Regeneron MTR ✅
   - Alphamissense scores ✅
   - Clinvar
