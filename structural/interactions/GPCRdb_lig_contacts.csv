@@ -168,40 +168,40 @@ Morphine,W,320,7x34,TM7,accessible,acc,8EF6,human
 Morphine,W,320,7x34,TM7,Van der Waals,Van der Waals,8EF6,human
 Morphine,I,324,7x38,TM7,accessible,acc,8EF6,human
 Morphine,Y,328,7x42,TM7,accessible,acc,8EF6,human
-Mitragynine,Y,77,1x39,TM1,accessible,acc,7T2G,mouse
-Mitragynine,Y,77,1x39,TM1,hydrophobic,hyd,7T2G,mouse
-Mitragynine,L,123,2x57,TM2,accessible,acc,7T2G,mouse
-Mitragynine,Q,126,2x60,TM2,accessible,acc,7T2G,mouse
-Mitragynine,Y,130,2x64,TM2,accessible,acc,7T2G,mouse
-Mitragynine,I,146,3x29,TM3,accessible,acc,7T2G,mouse
-Mitragynine,I,146,3x29,TM3,hydrophobic,hyd,7T2G,mouse
-Mitragynine,D,149,3x32,TM3,accessible,acc,7T2G,mouse
-Mitragynine,D,149,3x32,TM3,polar (charge-assisted hydrogen bond),polar_neg_protein,7T2G,mouse
-Mitragynine,Y,150,3x33,TM3,Van der Waals,Van der Waals,7T2G,mouse
-Mitragynine,Y,150,3x33,TM3,accessible,acc,7T2G,mouse
-Mitragynine,Y,150,3x33,TM3,hydrophobic,hyd,7T2G,mouse
-Mitragynine,M,153,3x36,TM3,Van der Waals,Van der Waals,7T2G,mouse
-Mitragynine,M,153,3x36,TM3,accessible,acc,7T2G,mouse
-Mitragynine,V,238,5x43,TM5,accessible,acc,7T2G,mouse
-Mitragynine,W,295,6x48,TM6,Van der Waals,Van der Waals,7T2G,mouse
-Mitragynine,W,295,6x48,TM6,hydrophobic,hyd,7T2G,mouse
-Mitragynine,W,295,6x48,TM6,accessible,acc,7T2G,mouse
-Mitragynine,I,298,6x51,TM6,Van der Waals,Van der Waals,7T2G,mouse
-Mitragynine,I,298,6x51,TM6,hydrophobic,hyd,7T2G,mouse
-Mitragynine,I,298,6x51,TM6,accessible,acc,7T2G,mouse
-Mitragynine,H,299,6x52,TM6,accessible,acc,7T2G,mouse
-Mitragynine,H,299,6x52,TM6,Van der Waals,Van der Waals,7T2G,mouse
-Mitragynine,V,302,6x55,TM6,accessible,acc,7T2G,mouse
-Mitragynine,V,302,6x55,TM6,Van der Waals,Van der Waals,7T2G,mouse
-Mitragynine,W,320,7x34,TM7,accessible,acc,7T2G,mouse
-Mitragynine,H,321,7x35,TM7,Van der Waals,Van der Waals,7T2G,mouse
-Mitragynine,H,321,7x35,TM7,accessible,acc,7T2G,mouse
-Mitragynine,I,324,7x38,TM7,hydrophobic,hyd,7T2G,mouse
-Mitragynine,I,324,7x38,TM7,accessible,acc,7T2G,mouse
-Mitragynine,I,324,7x38,TM7,Van der Waals,Van der Waals,7T2G,mouse
-Mitragynine,G,327,7x41,TM7,accessible,acc,7T2G,mouse
-Mitragynine,Y,328,7x42,TM7,polar (hydrogen bond),polar_unspecified,7T2G,mouse
-Mitragynine,Y,328,7x42,TM7,accessible,acc,7T2G,mouse
+MP,Y,77,1x39,TM1,accessible,acc,7T2G,mouse
+MP,Y,77,1x39,TM1,hydrophobic,hyd,7T2G,mouse
+MP,L,123,2x57,TM2,accessible,acc,7T2G,mouse
+MP,Q,126,2x60,TM2,accessible,acc,7T2G,mouse
+MP,Y,130,2x64,TM2,accessible,acc,7T2G,mouse
+MP,I,146,3x29,TM3,accessible,acc,7T2G,mouse
+MP,I,146,3x29,TM3,hydrophobic,hyd,7T2G,mouse
+MP,D,149,3x32,TM3,accessible,acc,7T2G,mouse
+MP,D,149,3x32,TM3,polar (charge-assisted hydrogen bond),polar_neg_protein,7T2G,mouse
+MP,Y,150,3x33,TM3,Van der Waals,Van der Waals,7T2G,mouse
+MP,Y,150,3x33,TM3,accessible,acc,7T2G,mouse
+MP,Y,150,3x33,TM3,hydrophobic,hyd,7T2G,mouse
+MP,M,153,3x36,TM3,Van der Waals,Van der Waals,7T2G,mouse
+MP,M,153,3x36,TM3,accessible,acc,7T2G,mouse
+MP,V,238,5x43,TM5,accessible,acc,7T2G,mouse
+MP,W,295,6x48,TM6,Van der Waals,Van der Waals,7T2G,mouse
+MP,W,295,6x48,TM6,hydrophobic,hyd,7T2G,mouse
+MP,W,295,6x48,TM6,accessible,acc,7T2G,mouse
+MP,I,298,6x51,TM6,Van der Waals,Van der Waals,7T2G,mouse
+MP,I,298,6x51,TM6,hydrophobic,hyd,7T2G,mouse
+MP,I,298,6x51,TM6,accessible,acc,7T2G,mouse
+MP,H,299,6x52,TM6,accessible,acc,7T2G,mouse
+MP,H,299,6x52,TM6,Van der Waals,Van der Waals,7T2G,mouse
+MP,V,302,6x55,TM6,accessible,acc,7T2G,mouse
+MP,V,302,6x55,TM6,Van der Waals,Van der Waals,7T2G,mouse
+MP,W,320,7x34,TM7,accessible,acc,7T2G,mouse
+MP,H,321,7x35,TM7,Van der Waals,Van der Waals,7T2G,mouse
+MP,H,321,7x35,TM7,accessible,acc,7T2G,mouse
+MP,I,324,7x38,TM7,hydrophobic,hyd,7T2G,mouse
+MP,I,324,7x38,TM7,accessible,acc,7T2G,mouse
+MP,I,324,7x38,TM7,Van der Waals,Van der Waals,7T2G,mouse
+MP,G,327,7x41,TM7,accessible,acc,7T2G,mouse
+MP,Y,328,7x42,TM7,polar (hydrogen bond),polar_unspecified,7T2G,mouse
+MP,Y,328,7x42,TM7,accessible,acc,7T2G,mouse
 PZM21,T,122,2x56,TM2,accessible,acc,7SBF,mouse
 PZM21,F,125,2x59,TM2,accessible,acc,7SBF,mouse
 PZM21,Q,126,2x60,TM2,accessible,acc,7SBF,mouse
@@ -234,40 +234,40 @@ PZM21,I,324,7x38,TM7,accessible,acc,7SBF,mouse
 PZM21,I,324,7x38,TM7,Van der Waals,Van der Waals,7SBF,mouse
 PZM21,Y,328,7x42,TM7,polar (hydrogen bond),polar_unspecified,7SBF,mouse
 PZM21,Y,328,7x42,TM7,accessible,acc,7SBF,mouse
-fentanyl,Q,126,2x60,TM2,accessible,acc,8EF5,human
-fentanyl,N,129,2x63,TM2,accessible,acc,8EF5,human
-fentanyl,W,135,23x50,ECL1,accessible,acc,8EF5,human
-fentanyl,W,135,23x50,ECL1,aromatic (face-to-edge),aro_fe_protein,8EF5,human
-fentanyl,V,145,3x28,TM3,accessible,acc,8EF5,human
-fentanyl,I,146,3x29,TM3,hydrophobic,hyd,8EF5,human
-fentanyl,I,146,3x29,TM3,accessible,acc,8EF5,human
-fentanyl,D,149,3x32,TM3,accessible,acc,8EF5,human
-fentanyl,D,149,3x32,TM3,polar (charge-assisted hydrogen bond),polar_neg_protein,8EF5,human
-fentanyl,Y,150,3x33,TM3,accessible,acc,8EF5,human
-fentanyl,Y,150,3x33,TM3,hydrophobic,hyd,8EF5,human
-fentanyl,Y,150,3x33,TM3,Van der Waals,Van der Waals,8EF5,human
-fentanyl,M,153,3x36,TM3,Van der Waals,Van der Waals,8EF5,human
-fentanyl,M,153,3x36,TM3,accessible,acc,8EF5,human
-fentanyl,M,153,3x36,TM3,hydrophobic,hyd,8EF5,human
-fentanyl,C,219,45x50,ECL2,Van der Waals,Van der Waals,8EF5,human
-fentanyl,C,219,45x50,ECL2,accessible,acc,8EF5,human
-fentanyl,V,238,5x43,TM5,accessible,acc,8EF5,human
-fentanyl,W,295,6x48,TM6,hydrophobic,hyd,8EF5,human
-fentanyl,W,295,6x48,TM6,accessible,acc,8EF5,human
-fentanyl,W,295,6x48,TM6,Van der Waals,Van der Waals,8EF5,human
-fentanyl,I,298,6x51,TM6,hydrophobic,hyd,8EF5,human
-fentanyl,I,298,6x51,TM6,accessible,acc,8EF5,human
-fentanyl,I,298,6x51,TM6,Van der Waals,Van der Waals,8EF5,human
-fentanyl,H,299,6x52,TM6,accessible,acc,8EF5,human
-fentanyl,V,302,6x55,TM6,accessible,acc,8EF5,human
-fentanyl,I,324,7x38,TM7,Van der Waals,Van der Waals,8EF5,human
-fentanyl,I,324,7x38,TM7,accessible,acc,8EF5,human
-fentanyl,I,324,7x38,TM7,hydrophobic,hyd,8EF5,human
-fentanyl,G,327,7x41,TM7,Van der Waals,Van der Waals,8EF5,human
-fentanyl,G,327,7x41,TM7,accessible,acc,8EF5,human
-fentanyl,Y,328,7x42,TM7,accessible,acc,8EF5,human
-fentanyl,Y,328,7x42,TM7,Van der Waals,Van der Waals,8EF5,human
-fentanyl,Y,328,7x42,TM7,hydrophobic,hyd,8EF5,human
+Fentanyl,Q,126,2x60,TM2,accessible,acc,8EF5,human
+Fentanyl,N,129,2x63,TM2,accessible,acc,8EF5,human
+Fentanyl,W,135,23x50,ECL1,accessible,acc,8EF5,human
+Fentanyl,W,135,23x50,ECL1,aromatic (face-to-edge),aro_fe_protein,8EF5,human
+Fentanyl,V,145,3x28,TM3,accessible,acc,8EF5,human
+Fentanyl,I,146,3x29,TM3,hydrophobic,hyd,8EF5,human
+Fentanyl,I,146,3x29,TM3,accessible,acc,8EF5,human
+Fentanyl,D,149,3x32,TM3,accessible,acc,8EF5,human
+Fentanyl,D,149,3x32,TM3,polar (charge-assisted hydrogen bond),polar_neg_protein,8EF5,human
+Fentanyl,Y,150,3x33,TM3,accessible,acc,8EF5,human
+Fentanyl,Y,150,3x33,TM3,hydrophobic,hyd,8EF5,human
+Fentanyl,Y,150,3x33,TM3,Van der Waals,Van der Waals,8EF5,human
+Fentanyl,M,153,3x36,TM3,Van der Waals,Van der Waals,8EF5,human
+Fentanyl,M,153,3x36,TM3,accessible,acc,8EF5,human
+Fentanyl,M,153,3x36,TM3,hydrophobic,hyd,8EF5,human
+Fentanyl,C,219,45x50,ECL2,Van der Waals,Van der Waals,8EF5,human
+Fentanyl,C,219,45x50,ECL2,accessible,acc,8EF5,human
+Fentanyl,V,238,5x43,TM5,accessible,acc,8EF5,human
+Fentanyl,W,295,6x48,TM6,hydrophobic,hyd,8EF5,human
+Fentanyl,W,295,6x48,TM6,accessible,acc,8EF5,human
+Fentanyl,W,295,6x48,TM6,Van der Waals,Van der Waals,8EF5,human
+Fentanyl,I,298,6x51,TM6,hydrophobic,hyd,8EF5,human
+Fentanyl,I,298,6x51,TM6,accessible,acc,8EF5,human
+Fentanyl,I,298,6x51,TM6,Van der Waals,Van der Waals,8EF5,human
+Fentanyl,H,299,6x52,TM6,accessible,acc,8EF5,human
+Fentanyl,V,302,6x55,TM6,accessible,acc,8EF5,human
+Fentanyl,I,324,7x38,TM7,Van der Waals,Van der Waals,8EF5,human
+Fentanyl,I,324,7x38,TM7,accessible,acc,8EF5,human
+Fentanyl,I,324,7x38,TM7,hydrophobic,hyd,8EF5,human
+Fentanyl,G,327,7x41,TM7,Van der Waals,Van der Waals,8EF5,human
+Fentanyl,G,327,7x41,TM7,accessible,acc,8EF5,human
+Fentanyl,Y,328,7x42,TM7,accessible,acc,8EF5,human
+Fentanyl,Y,328,7x42,TM7,Van der Waals,Van der Waals,8EF5,human
+Fentanyl,Y,328,7x42,TM7,hydrophobic,hyd,8EF5,human
 SR17018,Q,126,2x60,TM2,accessible,acc,8EFL,human
 SR17018,N,129,2x63,TM2,accessible,acc,8EFL,human
 SR17018,W,135,23x50,ECL1,accessible,acc,8EFL,human
